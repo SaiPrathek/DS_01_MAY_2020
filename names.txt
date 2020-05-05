@@ -1,0 +1,5 @@
+Numpy
+Seaborn
+Matplotlib
+Panadas
+Sklearn
