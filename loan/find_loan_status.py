@@ -1,6 +1,6 @@
 import pickle
 
-f = open(r"e:\classroom\ds\mar21\loan\lr_model.pkl","rb")
+f = open(r"lr_model.pkl","rb")
 model = pickle.load(f)
 
 # take input from user
